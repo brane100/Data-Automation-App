@@ -2,28 +2,30 @@
 
 ## Overview
 
-The **Data Automation App** is an innovative mobile application that allows you to control your mobile data or Wi-Fi connectivity using just your voice. Unlike Google Assistant or other voice-based assistants, this app doesn't require an active internet connection to function. It recognizes your voice commands and automatically turns on/off your mobile data or Wi-Fi, ensuring that you can stay connected without needing an internet connection for the voice recognition itself.
+The **Data Automation App** is an innovative mobile application that aims to enable users to control their mobile data or Wi-Fi connectivity using voice commands. Unlike Google Assistant or other voice-based assistants, this app will not require an active internet connection to function. The app will recognize your voice commands and automatically toggle your mobile data or Wi-Fi, providing a seamless connectivity experience without needing internet for voice recognition.
 
-This app is still under development, and its aim is to provide a reliable and efficient tool to manage your connectivity seamlessly.
+This app is still under development, and it is not yet available for public use. The goal is to provide a reliable and efficient tool to manage your mobile connectivity.
 
-## Features
+## Features (Planned)
 
 - **Voice Recognition**: Activate mobile data or Wi-Fi using voice commands.
-- **No Internet Needed**: Unlike other voice assistants, this app doesn't require an internet connection for processing voice commands.
-- **Control Connectivity**: Easily switch between mobile data and Wi-Fi networks.
-- **Offline Functionality**: Operates fully offline, making it more efficient and independent from external networks.
+- **No Internet Needed**: Unlike other voice assistants, this app won't require an internet connection to process voice commands.
+- **Control Connectivity**: Easily toggle between mobile data and Wi-Fi networks.
+- **Offline Functionality**: The app will operate fully offline, enhancing efficiency by not relying on external networks.
 
-## Installation
+## Installation (Upcoming Release)
+
+The app is still under development, and installation instructions will be available once the app is released. For now, you can follow these general steps once it becomes available:
 
 1. Clone or download the repository.
 2. Install the required dependencies using your preferred method (e.g., Gradle, NPM, etc.).
-3. Build and deploy the app on your device.
+3. Build and deploy the app on your Android device (iOS support is planned for the future).
 
-## How It Works
+## How It Will Work
 
-1. **Voice Command Recognition**: The app listens for predefined voice commands like "Turn on data" or "Enable Wi-Fi."
-2. **Connectivity Toggle**: Upon detecting the command, it automatically toggles your mobile data or Wi-Fi connectivity.
-3. **Offline Mode**: The app does not rely on the internet to process voice commands, making it a more efficient alternative to other online assistants.
+1. **Voice Command Recognition**: The app will listen for predefined voice commands, such as "Turn on data" or "Enable Wi-Fi."
+2. **Connectivity Toggle**: Upon recognizing the command, the app will toggle mobile data or Wi-Fi on or off.
+3. **Offline Mode**: The app will work offline, making it a more efficient solution compared to voice assistants that rely on an active internet connection.
 
 ## Supported Devices
 
@@ -33,11 +35,12 @@ This app is still under development, and its aim is to provide a reliable and ef
 
 - Implement more voice commands for additional functionalities.
 - Expand to support iOS devices.
-- Enhance voice recognition accuracy and reliability.
+- Improve voice recognition accuracy and overall reliability.
+- Release an early beta version for testers.
 
 ## Contributing
 
-We welcome contributions! If you'd like to contribute to the development of this app, feel free to fork the repository, submit pull requests, and suggest improvements.
+We welcome contributions! If you're interested in contributing to the development of this app, feel free to fork the repository, submit pull requests, and suggest improvements. Please note that the app is in early development, so the codebase is subject to significant changes.
 
 ## License
 
@@ -45,8 +48,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Disclaimer
 
-This app is still in development and may have bugs or limited functionality. The app is intended for personal use and is not guaranteed to work on all devices.
+The app is currently under development and not yet available for public use. As such, it may contain bugs or limited functionality. The app is intended for personal use and is not guaranteed to work on all devices.
 
 ---
 
-Thank you for checking out the Data Automation App! Stay tuned for updates and improvements.
+Thank you for showing interest in the Data Automation App! Stay tuned for future updates and announcements regarding the release.
