@@ -19,7 +19,7 @@ The app is still under development, and installation instructions will be availa
 
 1. Clone or download the repository.
 2. Install the required dependencies using your preferred method (e.g., Gradle, NPM, etc.).
-3. Build and deploy the app on your Android device (iOS support is planned for the future).
+3. Build and deploy the app on your Android device.
 
 ## How It Will Work
 
@@ -29,12 +29,11 @@ The app is still under development, and installation instructions will be availa
 
 ## Supported Devices
 
-- Android devices (support for iOS is planned for future releases).
+- Android devices.
 
 ## Future Plans
 
 - Implement more voice commands for additional functionalities.
-- Expand to support iOS devices.
 - Improve voice recognition accuracy and overall reliability.
 - Release an early beta version for testers.
 
